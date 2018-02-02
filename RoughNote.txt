@@ -1,0 +1,5 @@
+Optimization Algorithms:
+1. Gradient descent
+2. Conjugate gradient
+3. BFGS
+4. L-BFGS
