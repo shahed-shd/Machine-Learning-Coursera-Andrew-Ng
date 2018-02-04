@@ -8,6 +8,7 @@ Programming assignments and other important documents from Coursera's Machine Le
 + Logistic regression
 + Neural network
 + Support Vector Machine
++ Online machine learning
 
 ##### _Unsupervised learning:_
 + Clustering
@@ -18,5 +19,9 @@ Programming assignments and other important documents from Coursera's Machine Le
 ##### _More related topics:_
 + Regularization
 + Feature scaling and mean normalization
++ Gradient descent (batch, stochastic, mini-batch)
 + Gradient checking
++ Bias vs Variance
++ Learning curve
 + Dimensionality reduction (PCA algorithm)
++ Map reduce and data parallelism
