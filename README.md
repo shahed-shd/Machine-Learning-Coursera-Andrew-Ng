@@ -28,3 +28,5 @@ Programming assignments and other important documents from Coursera's Machine Le
 + Sliding window technique
 + Artificial data synthesis
 + Ceiling analysis
+
+For more information, please visit: https://www.coursera.org/learn/machine-learning
