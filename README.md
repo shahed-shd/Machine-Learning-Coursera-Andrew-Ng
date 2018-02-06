@@ -11,7 +11,7 @@ Programming assignments and other important documents from Coursera's Machine Le
 + Online machine learning
 
 ##### _Unsupervised learning:_
-+ Clustering
++ Clustering (K-means algorithm)
 + Anomaly detection
 + Recommender system
 + Collaborative filtering
@@ -25,3 +25,6 @@ Programming assignments and other important documents from Coursera's Machine Le
 + Learning curve
 + Dimensionality reduction (PCA algorithm)
 + Map reduce and data parallelism
++ Sliding window technique
++ Artificial data synthesis
++ Ceiling analysis
